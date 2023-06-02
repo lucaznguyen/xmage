@@ -6,6 +6,10 @@ Xmage is an open-source user interface for serveral GAN models based on PyTorch.
 
 If this repo helps your research or work, please help to ⭐ this repo. Thank you so much.
 
+<p align="center">
+  <img src="assets/web-index.jpg">
+</p>
+
 ---
 
 ## Getting started
