@@ -56,7 +56,7 @@ Try restoring some images:
 - [ ] Add Text2Image model to create image using text prompt.
   - [x] Build Text2Image model using DCGAN.
   - [x] Collect the dataset and ready for tranining.
-  - [] Train the model and save the pretrained one.
+  - [ ] Train the model and save the pretrained one.
 - [ ] Build STYLEGAN model to create image from serveral diffrent ones.
 
 ---
