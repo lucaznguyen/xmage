@@ -65,7 +65,7 @@ Try restoring some images:
 - [ ] Add GFPGAN model to restore old images.
 - [ ] Add Text2Image model to create image using text prompt.
   - [x] Build Text2Image model using DCGAN.
-  - [x] Collect the dataset and ready for tranining.
+  - [x] Collect the [Oxford Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/) and ready for tranining.
   - [ ] Train the model and save the pretrained one.
 - [ ] Build STYLEGAN model to create image from serveral diffrent ones.
 
