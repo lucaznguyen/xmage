@@ -15,24 +15,24 @@ If this repo helps your research or work, please help to ⭐ this repo. Thank yo
 ## Getting started
 ### Installation
 
-Let's clone this repo:
+- Let's clone this repo:
 ```bash
 git clone https://gitlab.com/lucaznguyen/xmage.git
 cd xmage
 ```
 
-Create the virtual environment and activate it:
+- Create the virtual environment and activate it:
 ```bash
 python -m venv
 venv/Script/activate
 ```
 
-Install the requirement package:
+- Install the required package:
 ```bash
 pip install -r requirements.txt
 ```
 
-Download the pretrained model `gen.pth`, `disc.pth` [here](https://drive.google.com/drive/folders/1zJ65Pb1cJ-JRousOqVO-lufJ86gNuFeM?usp=sharing) and put it into `esrgan/` folder.
+- Download the pretrained model `gen.pth`, `disc.pth` [here](https://drive.google.com/drive/folders/1zJ65Pb1cJ-JRousOqVO-lufJ86gNuFeM?usp=sharing) and put it into `esrgan/` folder.
 
 ### Run the Web UI
 
