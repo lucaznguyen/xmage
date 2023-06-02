@@ -13,3 +13,7 @@ If this repo helps your research or work, please help to ⭐ this repo or recomm
 ## License and Acknowledgement
 
 This project is released under the [Apache 2.0 license](LICENSE).<br>
+
+## Contact
+
+If you have any questions, please email `lucaznguyenofficial@gmail.com`, `21c29018@student.hcmus.edu.vn`.
