@@ -56,7 +56,7 @@ Try restoring some images:
 - [ ] Add Text2Image model to create image using text prompt.
   - [x] Build Text2Image model using DCGAN.
   - [x] Collect the dataset and ready for tranining.
-  - [x] Train the model and save the pretrained one.
+  - [] Train the model and save the pretrained one.
 - [ ] Build STYLEGAN model to create image from serveral diffrent ones.
 
 ---
@@ -72,3 +72,7 @@ This project is released under the [Apache 2.0 license](LICENSE).<br>
 If you have any questions, please email `lucaznguyenofficial@gmail.com`, `21c29018@student.hcmus.edu.vn`.
 
 ## References
+
+> Wang, Xintao, et al. "Esrgan: Enhanced super-resolution generative adversarial networks." Proceedings of the European conference on computer vision (ECCV) workshops. 2018. <https://github.com/xinntao/ESRGAN> 
+> Reed, Scott, et al. "Generative adversarial text to image synthesis." International conference on machine learning. PMLR, 2016. <https://github.com/reedscot/icml2016>
+> Studio, Bootstrap. "Creating a Website with Bootstrap Studio (Tutorial)." Youtube, Aug 17 (2016): 1.
