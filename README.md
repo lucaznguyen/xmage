@@ -32,6 +32,8 @@ Install the requirement package:
 pip install -r requirements.txt
 ```
 
+Download the pretrained model `gen.pth`, `disc.pth` [here](https://drive.google.com/drive/folders/1zJ65Pb1cJ-JRousOqVO-lufJ86gNuFeM?usp=sharing) and put it into `esrgan/` folder.
+
 ### Run the Web UI
 
 Simply run `python main.py` and open the host server address `http://127.0.0.1:5000` to enjoy the application.
