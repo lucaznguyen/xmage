@@ -27,7 +27,7 @@ python -m venv
 venv/Script/activate
 ```
 
-- Install the required package:
+- Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
