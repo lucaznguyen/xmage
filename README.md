@@ -74,7 +74,5 @@ If you have any questions, please email `lucaznguyenofficial@gmail.com`, `21c290
 ## References
 
 > Wang, Xintao, et al. "Esrgan: Enhanced super-resolution generative adversarial networks." Proceedings of the European conference on computer vision (ECCV) workshops. 2018. <https://github.com/xinntao/ESRGAN> 
-
 > Reed, Scott, et al. "Generative adversarial text to image synthesis." International conference on machine learning. PMLR, 2016. <https://github.com/reedscot/icml2016>
-
 > Studio, Bootstrap. "Creating a Website with Bootstrap Studio (Tutorial)." Youtube, Aug 17 (2016): 1.
