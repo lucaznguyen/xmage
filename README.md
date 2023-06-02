@@ -1,4 +1,4 @@
-# XMAGE: MUTATING IMAGES
+# XMAGE: IMAGE MUTATION
 Xmage is an open-source user interface for serveral GAN models based on PyTorch.
 
 **New Features/Updates**
