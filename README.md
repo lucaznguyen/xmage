@@ -56,6 +56,10 @@ Try restoring some images:
 - Create the folder `esrgan/test_images` and drop a few low-resolution images into it.
 - Set the value `try_model = True` in `esrgan/train.py` and run the code `python esrgan/train.py`.
 
+<p align="center">
+  <img src="assets/web-enhance.jpg">
+</p>
+
 ---
 
 ## Roadmap
