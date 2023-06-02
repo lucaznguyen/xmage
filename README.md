@@ -32,6 +32,10 @@ pip install -r requirements.txt
 
 Simply run `python main.py` and open the host server address `http://127.0.0.1:5000` to enjoy the application.
 
+<p align="center">
+  <img src="assets/web-service.jpg">
+</p>
+
 ### ESRGAN
 
 This is a PyTorch implementation of the paper [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219). This model is trained using the [Celebrity Face Image Dataset](https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset) on Kaggle.
