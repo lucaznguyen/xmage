@@ -17,7 +17,7 @@ If this repo helps your research or work, please help me to ⭐ this repo. Thank
 
 - Let's clone this repo:
 ```bash
-git clone https://gitlab.com/lucaznguyen/xmage.git
+git clone https://github.com/lucaznguyen/xmage.git
 cd xmage
 ```
 
