@@ -24,7 +24,7 @@ cd xmage
 - Create the virtual environment and activate it:
 ```bash
 python -m venv venv
-venv/Script/activate
+venv/Scripts/activate
 ```
 
 - Install the required packages:
