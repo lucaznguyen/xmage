@@ -75,7 +75,7 @@ Try restoring some images:
 
 ---
 
-## License and Acknowledgement
+## License
 
 This project is released under the [Apache 2.0 license](LICENSE).<br>
 
