@@ -83,7 +83,7 @@ This project is released under the [Apache 2.0 license](LICENSE).<br>
 
 ## Contact
 
-If you have any questions, please send me a message through `lucaznguyenofficial@gmail.com`, `21c29018@student.hcmus.edu.vn`.
+If you have any questions, please send me a message through `thinhnguyenresearch@gmail.com`, `thinh.nth@vinuni.edu.vn`.
 
 ## References
 
